@@ -1,6 +1,7 @@
-# Point Labels plugin for Chartist.js
+# Point Labels plugin for Chartist.js (Improved Fork)
 
 **Point Labels Plugin: Fork to correctly position values on top of bar charts and allow values of 0 (zero) by [Lietsaki](https://github.com/Lietsaki).**
+
 [Original Plugin by GionKunz](https://github.com/gionkunz/chartist-plugin-pointlabels) (has not been maintained since 2018 at the time of writing this, Dec 31st 2021) 
 
 This is a simple plugin for Chartist.js that will put a label on top of data points on line charts. This plugin serves
